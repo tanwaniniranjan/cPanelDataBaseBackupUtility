@@ -1,0 +1,6 @@
+{
+  "name": "cPanel Database Backup Utility",
+  "tagline": "Back up all the databases of your cPanel to a directory on your desktop",
+  "body": "# cPanel Database Backup Utility\r\n\r\ncPanel Database Backup Utility is a simple shell script that runs in your terminal.\r\n\r\n`sh cPanelDataBaseBackupUtility.sh`\r\n\r\nFollow the wizard which will create a folder called backup on you desktop and download all MySQL dumps into a folder with the date\r\n\r\n### Thats all Folks!",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
